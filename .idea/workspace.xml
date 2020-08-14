@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="500aa386-c7e0-43a1-963a-02ba9131397a" name="Default Changelist" comment="RockPaperScissors done">
-      <change afterPath="$PROJECT_DIR$/Bookshop/backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bookshop/frontend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/kgconversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/practicedb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/Moon sinking, sun rising.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/galaxy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/kangaroos-rain-australia_71370_990x742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/motion_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/news.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/script2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/script3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImageAndVideoProcessing/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/design.kv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobileApp/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookshop/books.db" beforeDir="false" afterPath="$PROJECT_DIR$/Bookshop/books.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookshop/frontend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bookshop/frontend.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,49 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mapping/map1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="29" column="101" selection-start-line="29" selection-start-column="101" selection-end-line="29" selection-end-column="101" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/kgconversion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/practicedb.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bookshop/frontend.py">
+        <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/motion_detector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+            <state relative-caret-position="697">
+              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bookshop/backend.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -90,6 +67,15 @@
         <option value="$PROJECT_DIR$/Bookshop/script.py" />
         <option value="$PROJECT_DIR$/Bookshop/backend.py" />
         <option value="$PROJECT_DIR$/Bookshop/frontend.py" />
+        <option value="$PROJECT_DIR$/MobileApp/design.kv" />
+        <option value="$PROJECT_DIR$/MobileApp/main.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/test.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/script1.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/script2.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/script3.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/videoProcessing.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/md.py" />
+        <option value="$PROJECT_DIR$/ImageAndVideoProcessing/motion_detector.py" />
       </list>
     </option>
   </component>
@@ -104,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,27 +100,18 @@
             <path>
               <item name="Python_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Bookshop" type="462c0819:PsiDirectoryNode" />
+              <item name="ImageAndVideoProcessing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="EnglishThesaurus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="PasswordGenerator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="MobileApp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,6 +120,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\busnu\Documents\Summer_2020\Python_Projects\ImageAndVideoProcessing" />
       <recent name="C:\Users\busnu\Documents\Summer_2020\Python_Projects\mapping" />
       <recent name="C:\Users\busnu\Documents\Summer_2020\Python_Projects\EnglishThesaurus" />
     </key>
@@ -160,8 +137,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.frontend">
-    <configuration name="backend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.motion_detector">
+    <configuration name="md" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bookshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageAndVideoProcessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bookshop/backend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageAndVideoProcessing/md.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="frontend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="motion_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bookshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageAndVideoProcessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bookshop/frontend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageAndVideoProcessing/motion_detector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kgconversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="script2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageAndVideoProcessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/kgconversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageAndVideoProcessing/script2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="script3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mapping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageAndVideoProcessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mapping/map1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageAndVideoProcessing/script3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="videoProcessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bookshop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImageAndVideoProcessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\busnu\Documents\Summer_2020\Python_Projects\Bookshop\frontend.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\busnu\Documents\Summer_2020\Python_Projects\ImageAndVideoProcessing\motion_detector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.frontend" />
-        <item itemvalue="Python.backend" />
-        <item itemvalue="Python.script" />
-        <item itemvalue="Python.kgconversion" />
-        <item itemvalue="Python.map1" />
+        <item itemvalue="Python.motion_detector" />
+        <item itemvalue="Python.md" />
+        <item itemvalue="Python.videoProcessing" />
+        <item itemvalue="Python.script3" />
+        <item itemvalue="Python.script2" />
       </list>
     </recent_temporary>
   </component>
@@ -308,13 +285,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,22 +380,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/practicedb.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bookshop/backend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+        <state relative-caret-position="782">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bookshop/frontend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        <state>
+          <caret column="12" selection-start-column="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/practicedb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileApp/design.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobileApp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/Galaxy_resized.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/script1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/resized_galaxy.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/resized_kangaroos-rain-australia_71370_990x742.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/resized_Lighthouse.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/resized_Moon sinking, sun rising.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/script2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/script3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/md.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageAndVideoProcessing/motion_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
